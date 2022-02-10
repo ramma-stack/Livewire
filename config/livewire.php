@@ -15,7 +15,7 @@ return [
     |
     */
 
-    'class_namespace' => 'App\\Http\\Controller',
+    'class_namespace' => 'App\\Http\\Controllers',
 
     /*
     |--------------------------------------------------------------------------
