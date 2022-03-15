@@ -54,7 +54,7 @@ return [
     |
     */
 
-    'asset_url' => 'http://localhost/livewire/public',
+    'asset_url'  =>  env('APP_URL', 'http://localhost'),
 
     /*
     |--------------------------------------------------------------------------
